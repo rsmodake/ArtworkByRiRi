@@ -1,6 +1,12 @@
 # Welcome To RiRi's Art Work
 
-I'm glad you are here. I plan to talk about my art work and my hobbies.
+
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <img src="https://octodex.github.com/images/vinyltocat.png">
 
   I am a person who is positive about every aspect of life. There are many things I like to do, 
   to see, and to experience. I like to read, I like to write; I like to think, I like to dream; 
@@ -11,3 +17,7 @@ I'm glad you are here. I plan to talk about my art work and my hobbies.
   I like to be alone, I like to be surrounded by people. I like country’s peace, I like metropolis’ noise; I like the beautiful 
   city Pune in India. I like delicious food and comfortable shoes; I like good books 
   and cartoon movies. I like the land and the nature, I like people. And, I like to laugh.
+  
+  </body>
+  </html>
+  
